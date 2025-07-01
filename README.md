@@ -11,7 +11,7 @@ b.) Pitch Angle : Personalized value preposition tailored to their roles and com
 c.) Icebreaker : Warm, engaging opener to use in outreach
 
 Project Structure 
-
+```
 lead_persona_ai/
 ├── app/                     # Python scripts
 │   ├── app.py
@@ -29,12 +29,13 @@ lead_persona_ai/
 │   ├── README.md
 ├── .env
 ├── requirements.txt
+```
 
 2. Setup Instruction
 
 a. Clone the repo
 
-git clone https://github.com/dhairya-kikani/Lead_Persona_Enrichment_Tool.git
+    git clone https://github.com/dhairya-kikani/Lead_Persona_Enrichment_Tool.git
 
 b. Install Dependencies
 
