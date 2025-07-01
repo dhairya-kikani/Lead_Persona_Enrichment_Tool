@@ -1,4 +1,4 @@
-Lead Persona Enrichment Tool
+# Lead Persona Enrichment Tool #
 
 1. Overview
 
