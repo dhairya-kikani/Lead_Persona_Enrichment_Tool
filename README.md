@@ -87,11 +87,12 @@ d.) Download filter as CSV
 Available upon request.
 
 6. Evaluation
-
-Criteria                                       What We've Done
+```
+Criteria                                       What I have Done
 -------------------------------------------------------------------------------------------------------------
 Business Use                                   LLM enrich leads with persona level insights
 UX/UI                                          Streamlit app with filters, preview, search and download option
 Tech                                           Groq Integration, prompt-based model, fallback handling
 Design                                         Clean Layout, readable enriched summaries
 Other                                          CSV automation, safe error catching
+```
