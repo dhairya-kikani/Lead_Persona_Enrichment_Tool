@@ -26,7 +26,7 @@ lead_persona_ai/
 │   ├── generate_notebook.py
 ├── docs/
 │   ├── lead_persona_report.pdf
-│   ├── README.md
+│  
 ├── .env
 ├── requirements.txt
 ```
